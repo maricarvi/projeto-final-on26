@@ -39,7 +39,10 @@
 O objetivo desta análise de dados é mostrar um pouco sobre o fluxo das patentes no Brasil, de onde elas vêm, o que elas protegem, quem são os donos destas garantias de exclusividade para exploração de certas tecnologias e propor reflexões sobre a relação entre a quantidade de patentes de uma nação e seu desenvolvimento.
 
 <br>
-O que é uma Patente?
+<br>
+
+## O que é uma Patente? (em termos beeeeeeeeeem resumidos)
+
 <br>
 
 Uma patente é um documento oficial que protege uma invenção única. É como um certificado que diz: "Eu fui o primeiro a criar isso!". Quando alguém inventa algo novo e solicita uma patente, o governo dá a essa pessoa o direito exclusivo de usar, vender ou compartilhar sua invenção por um tempo. Isso impede que outras pessoas copiem a ideia sem permissão. As patentes incentivam as pessoas a serem criativas, porque sabem que serão recompensadas e reconhecidas por suas ideias inovadoras.
@@ -88,7 +91,6 @@ Em nossa análise veremos que as patentes são um negócio muito lucrativo que i
 <br>
 <br>
 
-
 ## 👩🏾‍💻 Tecnologias e Dependências Utilizadas
 
 <br>
@@ -113,7 +115,6 @@ Link para o site com as bases de dados utilizadas:
 <br>
 <br>
 
-
 ## 👩🏾‍🔧 Visualização
 
 <br>
@@ -136,7 +137,6 @@ $ Run ou Run All
 ```
 <br>
 <br>
-
 
 ## ⚗️ Interface Gráfica
 
@@ -161,7 +161,7 @@ Agradecimento principal a Loui Costa que disponibilizou seu modelo de readme par
 
 
 
-## 🙋🏾‍♀️ Autora
+## 🙋🏾‍♀️ Autora (e a Loui)
 
 <br>
 
