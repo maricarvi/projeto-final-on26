@@ -6,7 +6,7 @@
 
 <p align="center"><b> Uma breve análise sobre os fluxos de patentes no Brasil </b><p>
 
-# <br> Projeto Final {Reprograma} - Parksonianos
+# <br> Projeto Final Marianna Carvalho - {Reprograma}
 
 ## Este é projeto final do curso de Análise de Dados | Turma On26 da [{Reprograma}](https://www.reprograma.com.br/).
 
@@ -108,11 +108,6 @@ Link para o site com as bases de dados utilizadas:
 <br>
 <br>
 
-<h1 align="center">
-
-<p align="center">
-<img src= "https://makeagif.com/i/Ez4b3k" width="500px" height="150"/>
-</p>
 
 ## 👩🏾‍🔧 Visualização
 
@@ -168,17 +163,5 @@ Agradecimento principal a Loui Costa que disponibilizou seu modelo de readme par
 
 <br>
 
-<p align="center">
-<a>
- <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/101025726/181299021-46508a68-9041-46bd-a849-e91a7308b364.jpg" width="100px;" alt="Foto de Perfil de Louise"/>
- <br/>
-</a>
-</p>
-
-<p align="center"> Análise desenvolvida por <a href="https://www.linkedin.com/in/maricarvi/" target="_blank"><img src="https://media.licdn.com/dms/image/D4D03AQF37eJ3g4GyFQ/profile-displayphoto-shrink_800_800/0/1679748223544?e=1707350400&v=beta&t=8YS5IdorEMN4VRpyDvBgfBESIK2a0rF1f_38tTIFGqg" target="_blank"></a> </p>
-
-<p align="center"> Modelo desenvolvido e disponibilizado por <a href="https://www.linkedin.com/in/loui-costa/" target="_blank"><img src="https://img.shields.io/badge/-Louise_Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loui-costa/" target="_blank"></a> </p>
-
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/84551213/171416454-ab93ab7f-e5a0-4276-81ec-4f5cb79dff31.png" alt="logo da reprograma" border="0" width = "200" /> <p align="center"></p>
+<p align="center"> Análise desenvolvida por Marianna Carvalho </p>
+<p align="center"> Modelo desenvolvido e disponibilizado por Loui Costa </p>
