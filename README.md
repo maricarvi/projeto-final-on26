@@ -143,7 +143,9 @@ $ Run ou Run All
 <br>
 
 Projeto criado com a orientação e cuidado da Professora [Mariana Rezende](https://www.linkedin.com/in/mariana-vb-rezende/)!<br>
-Agradecimento principal a Loui Costa que disponibilizou seu modelo de readme para as outras aulas que não estavam tão seguras com construir os seus do zero, à todas as mulheres maravilhosas e inspiradoras da Reprograma, pois sem elas eu não teria a coragem e a inspiração de estar aqui tentando o meu melhor mesmo sentindo que ainda sei tão pouco! E, por último mas não menos importante, aos meus amores - Victor, Tori, Chimichanga, Layssa e Juliana, especificamente - que não deixaram a inspiração e a motivação ficar só no Zoom e no Whatsapp e trouxeram também para a minha casa um acolhimento capaz de me convencer de que tudo posso e de que tudo dará certo, no meu tempo. 💜
+
+<br>
+Agradecimento principal a Loui Costa que disponibilizou seu modelo de readme para as outras alunas que não estavam tão seguras com construir os seus do zero, à todas as mulheres maravilhosas e inspiradoras da Reprograma, pois sem elas eu não teria a coragem e a inspiração de estar aqui tentando o meu melhor mesmo sentindo que ainda sei tão pouco! E, por último mas não menos importante, aos meus amores - Victor, Tori, Chimichanga, Layssa e Juliana, especificamente - que não deixaram a inspiração e a motivação ficar só no Zoom e no Whatsapp e trouxeram também para a minha casa um acolhimento capaz de me convencer de que tudo posso e de que tudo dará certo, no meu tempo. 💜
 
 <br>
 <br>
@@ -152,11 +154,6 @@ Agradecimento principal a Loui Costa que disponibilizou seu modelo de readme par
 
 #  Muito obrigada a você que chegou até aqui! E muito obrigada {Reprograma} por mudar a minha vida. 💜 </h2>
 
-</span>
-
-<p align="center">
-<img src= "https://user-images.githubusercontent.com/101025726/181297727-d648b4ab-ad20-4d4c-832b-00d9638abfff.gif" width="50%" height="30%"/>
-</p>
 
 
 ## 🙋🏾‍♀️ Autora
