@@ -46,7 +46,7 @@ O objetivo desta análise de dados é mostrar um pouco sobre o fluxo das patente
 <br>
 <br>
 
-**[Apresentação do Projeto Final](https://www.canva.com/design/DAF1rONHlaY/sDo1XfHbFutUhwUkSPfSRg/edit?utm_content=DAF1rONHlaY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+**[Apresentação do Projeto Final]( LINK DA APRESENTAÇÃO )**
 
 <br>
 <br>
@@ -148,7 +148,7 @@ $ Run ou Run All
 <br>
 
 Projeto criado com a orientação e cuidado da Professora [Mariana Rezende](https://www.linkedin.com/in/mariana-vb-rezende/)!<br>
-Agradecimento principal a Loui Costa que disponibilizou seu modelo de readme para as outras aulas que não estavam tão seguras com construir os seus do zero, à todas as mulheres maravilhosas e inspiradoras da Reprograma, pois sem elas eu não teria a coragem e a inspiração de estar aqui tentando o meu melhor mesmo sentindo que ainda sei tão pouco e aos meus amores - Victor, Tori, Chimichanga, Layssa e Juliana, especificamente - que não deixaram a inspiração e a motivação ficar só no online e trouxeram também para a minha casa um acolhimento que me convenceu de que tudo posso e de que tudo dará certo, no meu tempo. 💜
+Agradecimento principal a Loui Costa que disponibilizou seu modelo de readme para as outras aulas que não estavam tão seguras com construir os seus do zero, à todas as mulheres maravilhosas e inspiradoras da Reprograma, pois sem elas eu não teria a coragem e a inspiração de estar aqui tentando o meu melhor mesmo sentindo que ainda sei tão pouco! E, por último mas não menos importante, aos meus amores - Victor, Tori, Chimichanga, Layssa e Juliana, especificamente - que não deixaram a inspiração e a motivação ficar só no Zoom e no Whatsapp e trouxeram também para a minha casa um acolhimento capaz de me convencer de que tudo posso e de que tudo dará certo, no meu tempo. 💜
 
 <br>
 <br>
