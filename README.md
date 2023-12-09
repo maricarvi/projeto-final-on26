@@ -54,11 +54,8 @@ Em nossa análise veremos que as patentes são um negócio muito lucrativo que i
 <br>
 <br>
 
-Nome das colunas:
 
-
-
-**[Apresentação do Projeto Final]( LINK DA APRESENTAÇÃO )**
+**[Apresentação do Projeto Final]( )**
 
 <br>
 <br>
@@ -140,7 +137,7 @@ $ Run ou Run All
 
 <br>
 
-📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](  LINK TABLEAU ).
+📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](https://public.tableau.com/app/profile/marianna.carvalho/viz/ProjetoFinalOn26-MariCarvalho/viz1).
 
 <br>
 <br>
@@ -159,7 +156,7 @@ Agradecimento principal a Loui Costa que disponibilizou seu modelo de readme par
 
 
 
-## 🙋🏾‍♀️ Autora (e a Loui)
+## 🙋🏾‍♀️ Autora 
 
 <br>
 
