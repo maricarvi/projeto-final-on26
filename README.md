@@ -54,6 +54,10 @@ Em nossa análise veremos que as patentes são um negócio muito lucrativo que i
 <br>
 <br>
 
+Nome das colunas:
+
+
+
 **[Apresentação do Projeto Final]( LINK DA APRESENTAÇÃO )**
 
 <br>
@@ -67,22 +71,16 @@ Em nossa análise veremos que as patentes são um negócio muito lucrativo que i
 ```
  📁projeto-final-on26
    |
-   |  ||--📁 final
-   |  |    |- 📄 analise_patentes.ipynb
-   |  |    |- 📄 base_analise_patentes.csv
-   |
    |--📁 dataset
-   |  ||
-   |  ||
-   |  ||--📁 iniciais
-   |  |    |- 📄 analise_inicial.ipynb
-   |  |    |- 📄 base_unificada{}.csv
-   |  |    |- 📄 {}.csv
-   |  |    |- 📄 {}.csv
+   |  ||- 📄 base_analise_patentes.csv
+   |  ||- 📄 base_analise_patentes.csv
+   |
+   |
+   |--📁 final
+   |  |- 📄 analise_patentes.ipynb
+   |  |- 📄 base_analise_patentes.csv
    |  |
    |  |
-   |  |
-   |- 📄 canva.pdf
    |- 📄 readme.md
    
 
