@@ -135,7 +135,7 @@ $ Run ou Run All
 
 <br>
 
-📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](  LINK TABLEAU ).
+📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](https://public.tableau.com/app/profile/marianna.carvalho/viz/ProjetoFinalOn26-MariCarvalho/viz1).
 
 <br>
 <br>
@@ -153,7 +153,7 @@ Agradecimento principal a Loui Costa que disponibilizou seu modelo de readme par
 #  Muito obrigada a você que chegou até aqui! E muito obrigada {Reprograma} por mudar a minha vida. 💜 </h2>
 
 
-## 🙋🏾‍♀️ Autora (e a Loui)
+## 🙋🏾‍♀️ Autora 
 
 <br>
 
