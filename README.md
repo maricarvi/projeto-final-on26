@@ -13,7 +13,7 @@
 <br>
 <br>
 
- Este projeto é uma Análise de dados feita no Jupyter Notebook com visualização no Tableau
+ Este projeto é uma Análise de dados feita no Jupyter Notebook com visualização no [Tableau](https://public.tableau.com/app/profile/marianna.carvalho/viz/ProjetoFinalOn26-MariCarvalho/viz1).
 
 <br>
 <br>
@@ -68,15 +68,9 @@ Em nossa análise veremos que as patentes são um negócio muito lucrativo que i
 ```
  📁projeto-final-on26
    |
-   |--📁 dataset
-   |  ||- 📄 base_analise_patentes.csv
-   |  ||- 📄 base_analise_patentes.csv
-   |
-   |
    |--📁 final
    |  |- 📄 analise_patentes.ipynb
-   |  |- 📄 base_analise_patentes.csv
-   |  |
+   |  |- 📄 depositos.csv
    |  |
    |- 📄 readme.md
    
