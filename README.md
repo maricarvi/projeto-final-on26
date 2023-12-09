@@ -13,7 +13,7 @@
 <br>
 <br>
 
- Este projeto é uma Análise de dados feita no Jupyter Notebook com visualização no Tableau
+ Este projeto é uma Análise de dados feita no Jupyter Notebook com tentativas de visualização de dados no Tableau.
 
 <br>
 <br>
@@ -36,7 +36,7 @@
 
 <br>
 
-O objetivo desta análise de dados é mostrar um pouco sobre o fluxo das patentes no Brasil, de onde elas vêm, o que elas protegem, quem são os donos destas garantias de exclusividade para exploração de certas tecnologias e propor reflexões sobre a relação entre a quantidade de patentes de uma nação e seu desenvolvimento.
+O objetivo desta análise de dados é mostrar um pouco sobre o fluxo das patentes no Brasil, de onde elas vêm, os tipos de proteção que elas garantem, quem são os donos destas garantias de exclusividade para exploração de certas tecnologias e propor reflexões sobre a relação entre a quantidade de patentes de uma nação e seu desenvolvimento.
 
 <br>
 <br>
@@ -56,6 +56,10 @@ Em nossa análise veremos que as patentes são um negócio muito lucrativo que i
 
 Nome das colunas:
 
+NO_PEDIDO - Informa o número atribuido ao Pedido de Patente depositado
+DT_ENTRADA_INPI - Informa a data em que esse pedido de patente foi registrado no Brasil
+CD_PAIS_PFPJ - Informa qual o país de origem da invenção. Todas as patentes analisadas foram registradas no Brasil mas muitas não foram inventadas aqui.
+CD_NATUREZ_PEDIDO - Informa qual o tipo de proteção solicitada para aquele tipo de invenção (PI - Patente de Invenção, MU - Modelo de Utilidade, C - Programa de Computador, ZZ - Não atribuído)
 
 
 **[Apresentação do Projeto Final](https://public.tableau.com/app/profile/marianna.carvalho/viz/ProjetoFinalOn26-MariCarvalho/viz1)**
@@ -71,19 +75,12 @@ Nome das colunas:
 ```
  📁projeto-final-on26
    |
-   |--📁 dataset
-   |  ||- 📄 base_analise_patentes.csv
-   |  ||- 📄 base_analise_patentes.csv
-   |
-   |
    |--📁 final
-   |  |- 📄 analise_patentes.ipynb
-   |  |- 📄 base_analise_patentes.csv
-   |  |
-   |  |
-   |- 📄 readme.md
+   |  --📁 dataset
+   |  ||- 📄 analise_final_patentes.ipynb
+   |  ||- 📄 depositos.csv
+   |  ||- 📄 README.md
    
-
 ```
 
 <br>
@@ -126,9 +123,7 @@ $ cd projeto-final-on26
 
 # Instalar as bibliotecas
 $ import pandas as pd
-$ import numpy as np
 $ import matplotlib.pyplot as plt
-$ import seaborn as sns
 
 # Executar o comando na parte superior do arquivo em .ipynb para que você possa rodar o projeto localmente no arquivo 'analise_patentes.ipynb'.
 $ Run ou Run All
@@ -156,7 +151,6 @@ Agradecimento principal a Loui Costa que disponibilizou seu modelo de readme par
 <span align="center">
 
 #  Muito obrigada a você que chegou até aqui! E muito obrigada {Reprograma} por mudar a minha vida. 💜 </h2>
-
 
 
 ## 🙋🏾‍♀️ Autora (e a Loui)
